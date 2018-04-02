@@ -11,4 +11,6 @@ package projetobeta;
  */
 public class NovaClasseBeta {
     
+    String nome;
+    int idade;
 }
